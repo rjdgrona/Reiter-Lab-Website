@@ -21,7 +21,7 @@
   .bgimg-1 {
       background-position: center;
       background-size: cover;
-      background-image: url("/img/mb.jpg");
+      background-image: url("/img/false_colored_muscle_fibers.jpg");
       min-height: 50%;
   }
   .w3-bar .w3-button {
@@ -35,7 +35,7 @@
       <a href="/" class="w3-bar-item w3-button w3-wide">REITER LAB</a>
       <!-- Right-sided navbar links -->
       <div class="w3-right w3-hide-small">
-        <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
+        <a href="/" class="w3-bar-item w3-button">HOME</a>
         <a href="{{ site.baseurl }}/people" class="w3-bar-item w3-button"><i class="fa fa-user"></i> PEOPLE</a>
         <a href="{{ site.baseurl }}/research" class="w3-bar-item w3-button"><i class="fa fa-th"></i> RESEARCH</a>
         <a href="{{ site.baseurl }}/publications" class="w3-bar-item w3-button"><i class="fa fa-book"></i> PUBLICATIONS</a>
@@ -52,7 +52,7 @@
   <!-- Sidebar on small screens when clicking the menu icon -->
   <nav class="w3-sidebar w3-bar-block w3-black w3-card-2 w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
     <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close &times;</a>
-    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">ABOUT</a>
+    <a href="#/" onclick="w3_close()" class="w3-bar-item w3-button">HOME</a>
     <a href="{{ site.baseurl }}/people" onclick="w3_close()" class="w3-bar-item w3-button">PEOPLE</a>
     <a href="{{ site.baseurl }}/research" onclick="w3_close()" class="w3-bar-item w3-button">RESEARCH</a>
     <a href="{{ site.baseurl }}/publications" onclick="w3_close()" class="w3-bar-item w3-button">PUBLICATIONS</a>
@@ -60,17 +60,17 @@
   </nav>
 
  <!-- Header with full-height image -->
- <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
+ <header class="bgimg-1 w3-display-container" id="home">
    <div class="w3-display-left w3-text-white" style="padding:48px">
-   </div>
-   <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
+ </div>
+    <!-- <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
      <i class="fa fa-facebook-official w3-hover-opacity"></i>
      <i class="fa fa-instagram w3-hover-opacity"></i>
      <i class="fa fa-snapchat w3-hover-opacity"></i>
      <i class="fa fa-pinterest-p w3-hover-opacity"></i>
      <i class="fa fa-twitter w3-hover-opacity"></i>
      <i class="fa fa-linkedin w3-hover-opacity"></i>
-   </div>
+   </div> -->
  </header>
 
  <!--Footer END -->
