@@ -12,36 +12,38 @@ permalink: /people/
       <h2 class="w3-wide">Reiter Lab Team</h2>
 
 <!--Lab Members here -->
+
 <!--row one-->
       <div class="w3-row w3-padding-32">
         <div class="w3-third">
-          <p>Jeremy Reiter</p>
+          <p>Jeremy Reiter MD,PhD</p>
           <a href="{{ site.baseurl }}/lab/jeremy_reiter"><img src="{{ site.baseurl }}/img/j.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
         </div>
         <div class="w3-third">
-          <p>Andrew Norman</p>
-          <a href="{{ site.baseurl }}/lab/andrew_norman"><img src="{{ site.baseurl }}/img/andrew_norman.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+          <p>Lauren Byrnes PhD</p>
+          <a href="{{ site.baseurl }}/lab/lauren_byrnes"><img src="{{ site.baseurl }}/img/cilia.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
         </div>
         <div class="w3-third">
-          <p>Benedict Tsai</p>
-          <a href="{{ site.baseurl }}/lab/benedict_tsai"><img src="{{ site.baseurl }}/img/benedict_tsai.jpg" class="w3-round" alt="" style="width:60%"></a>
+          <p>Gabriel Canales</p>
+          <a href="{{ site.baseurl }}/lab/gabriela_canales"><img src="{{ site.baseurl }}/img/gabriela_canales.jpg" class="w3-round" alt="" style="width:60%"></a>
         </div>
       </div>
     </div>
+
 <!--row two-->
     <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
-        <p>Chang Xie</p>
-        <a href="{{ site.baseurl }}/lab/chang_xie"><img src="{{ site.baseurl }}/img/chang_xie.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+        <p>Semil Choksi PhD</p>
+        <a href="{{ site.baseurl }}/lab/semil_choksi"><img src="{{ site.baseurl }}/img/semil_choksi.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
       </div>
       <div class="w3-third">
-        <p>Dhivya Kumar</p>
-        <a href="{{ site.baseurl }}/lab/dhivya_kumar"><img src="{{ site.baseurl }}/img/dhivya_kumar.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+        <p>Lorenzo Del Castillo</p>
+        <a href="{{ site.baseurl }}/lab/lorenzo_delcastillo"><img src="{{ site.baseurl }}/img/lorenzo_delcastillo.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
       </div>
       <div class="w3-third">
-        <p>E Yu</p>
-        <a href="{{ site.baseurl }}/lab/e_yu"><img src="{{ site.baseurl }}/img/e_yu.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+        <p>Camille Derderian</p>
+        <a href="{{ site.baseurl }}/lab/camille_derderian"><img src="{{ site.baseurl }}/img/camille_derderian.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
       </div>
     </div>
     </div>
@@ -50,16 +52,16 @@ permalink: /people/
   <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
   <div class="w3-row w3-padding-32">
     <div class="w3-third">
-      <p>Gabriela Canales</p>
-      <a href="{{ site.baseurl }}/lab/gabriela_canales"><img src="{{ site.baseurl }}/img/gabriela_canales.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+      <p>Mia Konjikusic PhD</p>
+      <a href="{{ site.baseurl }}/lab/mia_konjikusic"><img src="{{ site.baseurl }}/img/mia_konjikusic.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
     </div>
     <div class="w3-third">
-      <p>Galo Garcia</p>
-      <a href="{{ site.baseurl }}/lab/galo_garcia"><img src="{{ site.baseurl }}/img/galo_garcia.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+      <p>Yue "Harry" Liu PhD</p>
+      <a href="{{ site.baseurl }}/lab/harry_liu"><img src="{{ site.baseurl }}/img/cilia.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
     </div>
     <div class="w3-third">
-      <p>Melissa Troung</p>
-      <a href="{{ site.baseurl }}/lab/melissa_truong"><img src="{{ site.baseurl }}/img/melissa_truong.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+      <p>Thi Nguyen</p>
+      <a href="{{ site.baseurl }}/lab/thi_nguyen"><img src="{{ site.baseurl }}/img/thi_nguyen.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
     </div>
   </div>
   </div>
@@ -69,33 +71,21 @@ permalink: /people/
 <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
 <div class="w3-row w3-padding-32">
   <div class="w3-third">
-    <p>Nicholas Morante</p>
-    <a href="{{ site.baseurl }}/lab/nicholas_morante"><img src="{{ site.baseurl }}/img/nicholas_morante.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+    <p>Thao Phan PhD</p>
+    <a href="{{ site.baseurl }}/lab/thao_phan"><img src="{{ site.baseurl }}/img/Thao.jpeg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
   </div>
   <div class="w3-third">
-    <p>Rachel Deleon</p>
-    <a href="{{ site.baseurl }}/lab/rachel_deleon"><img src="{{ site.baseurl }}/img/rachel_deleon.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+    <p>E Yu</p>
+    <a href="{{ site.baseurl }}/lab/e_yu"><img src="{{ site.baseurl }}/img/e_yu2.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
   </div>
   <div class="w3-third">
-    <p>Selena Rice</p>
-    <a href="{{ site.baseurl }}/lab/selena_rice"><img src="{{ site.baseurl }}/img/selena_rice.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+    <p></p>
+    <a href="{{ site.baseurl }}/lab/"><img src="{{ site.baseurl }}/img/" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
   </div>
 </div>
 </div>
 
 <!--row five-->
-  <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
-  <div class="w3-row w3-padding-32">
-   <div class="w3-third">
-     <p>Semil Choksi</p>
-     <a href="{{ site.baseurl }}/lab/semil_choksi"><img src="{{ site.baseurl }}/img/semil_choksi.jpg" class="w3-round  w3-margin-bottom" alt="" style="width:60%"></a>
-  </div>
-    <div class="w3-third">
-    <p>Ying Yang</p>
-   <a href="{{ site.baseurl }}/lab/ying_yang"><img src="{{ site.baseurl }}/img/ying_yang.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
-   </div>
-  </div>
-  </div>
 <!--new list here-->
 
 <!--former lab members here -->
@@ -103,7 +93,18 @@ permalink: /people/
       <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
         <h2 class="w3-wide">Former Lab Members</h2>
         <p class="w3-justify"></p>
-
+            <p>Reinier John Grona</p>
+            <p>Gabriel Loeb MD,PhD</p>
+            <p>Dhivya Kumar, PhD</p>
+            <p>Benedict Tsai</p>
+            <p>Kennix Cheung</p>
+            <p>Selena Rice, PhD</p>
+            <p>Rachel Deleon</p>
+            <p>Nicholas Morante, PhD</p>
+            <p>Melissa Troung, PhD</p>
+            <p>Galo Garcia, PhD</p>
+            <p>Chang Xie, PhD</p>
+            <p>Andrew Norman, PhD</p>
             <p>Monika Abedin, PhD</p>
             <p>Shaun Abrams</p>
             <p>Saori Haigo, PhD</p>
