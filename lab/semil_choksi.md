@@ -2,7 +2,7 @@
 layout: bio
 categories: lab
 title: Semil Choksi PhD
-position: Asst Professional Researcher
+position: Professional Researcher
 email_prefix: Semil.Choksi
 email_suffix: ucsf, edu
 start_date: Feb 2016
